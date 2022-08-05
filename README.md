@@ -1,6 +1,6 @@
 <h1 align="center">Heya! I'm Jason Casareno 😎</h1>
 <h3 align="center">A comp sci student @ CSU Monterey Bay</h3>
-<img align="right" width="350" src="https://i.imgur.com/4SdB78W.gif" />
+<img align="right" width="350" height="300" src="https://i.imgur.com/4SdB78W.gif" />
 
 - 🎮 My favorite project I collaborated **[The Slayer](https://masonjason23.itch.io/slayer)**
 
