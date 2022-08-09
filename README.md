@@ -8,7 +8,7 @@
 
 - 📄 [Know about my experiences](https://docs.google.com/document/d/15jQWiADR7T6mjOJ4PlcebUSM4zm2VLNpJx4rT0-Mf3k/edit?usp=sharing)
 
-- ⚡ Fun fact **I won a small award for an art piece I created in highschool**
+- ⚡ Fun fact **I won an award for an art piece I created in highschool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
