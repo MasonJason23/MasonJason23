@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jason.casareno23@gmail.com**
 
-- 📄 [Know about my experiences]([https://www.linkedin.com/in/jasonjcasareno/])
+- 📄 [Know about my experiences](https://www.linkedin.com/in/jasonjcasareno/)
 
 - ⚡ Fun fact **I won an award for an art piece I created in highschool**
 
